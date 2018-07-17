@@ -10,6 +10,7 @@ Notes
 - Find supporting literature/evidence-base for decision process (i.e., deep scan/review of literature)
 - Draft pseudo functions
 - Read [R Packages](http://r-pkgs.had.co.nz/)
+- Read the [modelling section](http://r4ds.had.co.nz/model-intro.html) in R for Data Science
 
 ### Functionality
 - Optimise with c++ via [Rcpp](http://www.rcpp.org/). Also see [here](http://adv-r.had.co.nz/Rcpp.html)
