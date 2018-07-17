@@ -4,6 +4,10 @@ Notes
 ### Immediate to-do
 - Deep scan of CRAN for any similar packages
 - Deep scan of github for any similar packages (note that packages can be published on Github and downloaded with the devtools package)
+*mike*: search lit for articles. Create workflow. Read R packages book.
+*girish*: create slack workspace. Search lit for articles. Read R packages book.
+
+
 
 ### To-do
 - Draft conceptual workflow for package
