@@ -25,3 +25,6 @@ Notes
 
 ### Similar packages
 - [dlookr](https://github.com/choonghyunryu/dlookr): checks for normality and missing values etc., and can perform transformations on the data. I think we can further automate a lot of the tasks this package does.
+
+### Evidence-based articles supporting package
+- [Which is the correct statistical test to use?](https://www.sciencedirect.com/science/article/pii/S0266435607004378)
