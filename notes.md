@@ -18,6 +18,9 @@ Notes
 - Maintain a 'tidy' approach inline with the tidyverse suite of packages.
 - limit to inferential statistics?
 - there is already a package on CRAN called selectr. Rename (selector? Tselect? Test Selectr?)
-- Include transformr. Check for normality across variables using skenwss and kurtosis z-scores etc. If the variable is not normal, iterate through a list of transformations (e.g., log, square, exponential), at each stage assessing normality, then if any transformations return a normal distribution (and transformed variable), select the most normal. Should this take part in a separate pre-cursor function or be integrated with the main select function? 
+- Include transformr. Check for normality across variables using Shapiro-Wilk normality test, skenwss and kurtosis z-scores etc. If the variable is not normal, iterate through a list of transformations (e.g., log, square, exponential), at each stage assessing normality, then if any transformations return a normal distribution (and transformed variable), select the most normal. Should this take part in a separate pre-cursor function or be integrated with the main select function? 
 - Should other assumption tests be in their own function (e.g., assumptions())?
 - argument to main function called outliers = c(method 1, method 2, etc.). Provide different methods for removing outliers supported by the lit. Use Cook's distance etc. to determin outliers.
+
+### Similar packages
+- [dlookr](https://github.com/choonghyunryu/dlookr): checks for normality and missing values etc., and can perform transformations on the data. I think we can further automate a lot of the tasks this package does.
