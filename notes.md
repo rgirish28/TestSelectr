@@ -32,6 +32,7 @@ Notes
 - [infer](https://infer.netlify.com/index.html)
 - [AutoModel](https://github.com/alishinski/AutoModel)
 - [gvlma](https://cran.r-project.org/web/packages/gvlma/gvlma.pdf)
+- [statisticssuck.com](http://statisticssucks.com/) - the mechanics behind this app are very poor. It only provides a limited number of tests and doesn't take into consideration your research question.
 
 ### Evidence-based articles supporting package
 - [Which is the correct statistical test to use?](https://www.sciencedirect.com/science/article/pii/S0266435607004378)
